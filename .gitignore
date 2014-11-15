@@ -1,6 +1,7 @@
 # User specific & automatically generated files #
 #################################################
-/app/Config/database.php
+/app/Config/
+/app/Controller/
 /app/tmp
 /lib/Cake/Console/Templates/skel/tmp/
 /plugins
@@ -8,6 +9,8 @@
 /build
 /dist
 /tags
+RoutoTelecomSMS.php
+testRouto.php
 
 # OS generated files #
 ######################
